@@ -13,9 +13,18 @@ int main(){
 	int wynik1= a-b;
 	cout<<endl;
 	cout<<a;
+	cout<<"-";
 	cout<<b;
+	cout<<"="<<wynik1;
+	
+	int wynik2= a*b;
 	cout<<endl;
-	cout<<wynik1;
+	cout<<a;
+cout<<"*";
+	cout<<b;
+	cout<<"="<<wynik2;
+
+	
 	
 	
 }
